@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+     
+      {
+        "name": "gym_app",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart"
+      },
+      {
+        "name": "gym_app (profile mode)",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "profile",
+        "program": "lib/main.dart"
+      },
+      {
+        "name": "gym_app (release mode)",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "release",
+        "program": "lib/main.dart"
+      },
+      {
+        "name": "Flutter (Windows)",
+        "program": "lib/main.dart",
+        "deviceId": "windows",
+        "request": "launch",
+        "type": "dart"
+      }
+    ]
+  }
+  
